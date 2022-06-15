@@ -9,4 +9,4 @@ I used Tenserflow Lite Model Maker library for Image Classificaton Task. The sai
 
 Visit https://www.tensorflow.org/lite/models/modify/model_maker/image_classification to know more about the scope and limitation of using this library.
 
-If you have an existing flutter project for image classification task you may use the model for testing and evaluation. Please use the quantized model or the ""
+If you have an existing flutter project for image classification task you may use the model for testing and evaluation. Please use the quantized model or the "model_fp16.tflite" file.
